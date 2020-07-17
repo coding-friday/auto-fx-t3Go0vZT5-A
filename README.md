@@ -6,6 +6,6 @@
 # 動作のさせ方
 
 - `npm i`
-- index.js の `ACCESS_TOKEN` を自分のものに置き換え
+- index.js の `ACCESS_TOKEN` と `ACCOUNT_ID` を自分のものに置き換え
 - `node index.js`
 - これだけ！
